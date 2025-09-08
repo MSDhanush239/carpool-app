@@ -14,6 +14,7 @@ A full-stack ride-sharing web application that helps users create and join carpo
 📱 Responsive UI – Works on mobile and desktop
 
 🛠 Tech Stack
+
 Frontend: Next.js, TypeScript, Tailwind CSS, React, Axios, Socket.io Client
 
 Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Bcrypt, Socket.io
